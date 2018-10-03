@@ -1,4 +1,4 @@
-/* triangle.c -- Akash Shaji */
+/* triangle.c - Akash Shaji */
 #include <stdio.h>
 #include <math.h>
 int main() {
